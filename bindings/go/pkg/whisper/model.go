@@ -6,7 +6,7 @@ import (
 	"runtime"
 
 	// Bindings
-	whisper "github.com/ggerganov/whisper.cpp/bindings/go"
+	whisper "github.com/kercre123/whisper.cpp/bindings/go"
 )
 
 ///////////////////////////////////////////////////////////////////////////////
